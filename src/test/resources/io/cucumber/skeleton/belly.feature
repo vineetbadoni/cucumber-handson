@@ -1,6 +1,6 @@
 Feature: Belly
 
-  Scenario: a few cukes
-    Given I have 42 cukes in my belly
-    When I wait 1 hour
+  Scenario: ate few cakes
+    Given I have 42 cakes in my belly
+    When I wait 1 minutes
     Then my belly should growl
